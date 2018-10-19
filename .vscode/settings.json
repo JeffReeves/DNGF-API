@@ -1,0 +1,6 @@
+{
+    // WINDOWS
+    "python.pythonPath": "${workspaceFolder}/Python37/.venv/Scripts/python3.exe"
+    // LINUX / MAC
+    // "python.pythonPath": "${workspaceFolder}/Python37/.venv/bin/python"
+}
